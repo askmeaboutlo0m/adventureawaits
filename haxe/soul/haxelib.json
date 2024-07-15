@@ -1,0 +1,15 @@
+{
+    "name"         : "soul",
+    "url"          : "https://github.com/askmeaboutlo0m/adventureawaits/",
+    "license"      : "MIT",
+    "tags"         : ["animation"],
+    "description"  : "An animation library.",
+    "version"      : "0.3.3",
+    "releasenote"  : "",
+    "contributors" : ["askmeaboutloom"],
+    "dependencies" : {
+        "actuate"   : "",
+        "exception" : "",
+        "openfl"    : ""
+    }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <meta title="adv"/>
+    <app main="Main" path="build" file="adv" preloader="Preloader"/>
+    <window width="1280" height="720" fps="30"/>
+    <source path="src"/>
+
+    <haxedef name="JUST_ADV"/>
+
+    <haxelib name="exception"/>
+    <haxelib name="openfl"/>
+    <haxelib name="actuate"/>
+    <haxelib name="yaml"/>
+    <haxelib name="soul"/>
+
+    <assets path="assets/fonts" rename="assets"/>
+</project>

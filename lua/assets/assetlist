@@ -1,0 +1,12 @@
+108684 assets/fonts/Inconsolata-Regular.ttf
+13259 scripts/adventure/adventure.lua
+138673 scripts/adventure/data.lua
+4700 scripts/adventure/profanity.lua
+9616 scripts/advscene.lua
+5258 scripts/lib/common.lua
+3600 scripts/lib/debuggery.lua
+2592 scripts/lib/fpscounter.lua
+10128 scripts/lib/preload.lua
+16986 scripts/lib/scenebase.lua
+5985 scripts/lib/scenesetup.lua
+15389 scripts/lib/seqbuilder.lua
